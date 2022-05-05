@@ -1,0 +1,1 @@
+Bom, neste projeto da #pousada consegui colocar em prática meu conhecimento de HTML e CSS que obtive em meus cursos e foi um projeto piloto. Gostei do resultado que alcancei pois foi utilizado apenas HTML e CSS  e o resultado final foi ótimo.
